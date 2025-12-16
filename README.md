@@ -82,7 +82,7 @@ This project is implemented in pure Python and does not require any external lib
 
 1. Download the **rhymecheck.py** from the repository
 2. Open a terminal or command prompt and navigate to the directory containing the file.
-3. Run the program using: **python rhyme_check.py**
+3. Run the program using: **python rhymecheck.py**
 4. The model will first train automatically. During training, loss values are printed periodically to show learning progress.
 5. After training, the program enters interactive mode. The user is prompted to enter two words, and the system outputs:
    - A confidence score
