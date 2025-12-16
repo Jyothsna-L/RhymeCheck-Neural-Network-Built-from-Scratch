@@ -89,5 +89,7 @@ This project is implemented in pure Python and does not require any external lib
    - A rhyme or non-rhyme prediction
 6. The user can continue testing multiple word pairs until choosing to exit.
 
-**Credits:** Diagram created using [draw.io](https://app.diagrams.net/)  
-**Credits:** Neural network visualization created using NN-SVG
+## Credits
+
+- Diagram created using [draw.io](https://app.diagrams.net/)  
+- Neural network visualization created using NN-SVG
