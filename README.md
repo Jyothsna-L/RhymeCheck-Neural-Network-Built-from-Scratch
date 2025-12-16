@@ -4,7 +4,7 @@
 
 This project implements a neural network from scratch in Python to determine whether two English words rhyme or not. The system is built without using any machine learning libraries such as TensorFlow, PyTorch, or scikit-learn. All computations including forward propagation, loss calculation, and backpropagation are implemented manually using core Python constructs (loops, lists, conditionals, and basic math).
 
-The primary goal of the project is not to achieve state-of-the-art rhyme detection, but to demonstrate a deep understanding of neural network fundamentals, including:
+The primary goal of the project is to demonstrate a deep understanding of neural network fundamentals, including:
 - Feature representation
 - Weight and bias learning
 - Gradient-based optimization
